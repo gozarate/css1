@@ -1,0 +1,223 @@
+
+   body{
+           background-color: #99A8B2;
+
+           }
+
+   h1{
+             color: #0F044C;
+             font-size: 40px;
+             font-family: "Castellar";
+             text-shadow: 1px 1px 4px #787A91;
+             text-align: center;
+           }
+
+   h2{
+             color: #112031;
+            font-family: "Castellar";
+            text-align: center;
+           }
+
+   h3{
+             color: #112031;
+          font-family: "Castellar";
+           }
+
+   hr{
+             background-color: #293B5F;
+             width: 100%;
+             height: 2px;
+             border-style: outset;
+           }
+   p{
+     color: #112031;
+     font-family: "Times New Roman";
+     text-align: justify;
+     font-size: 17px;
+   }
+
+   a{
+     color: #293B5F;
+     font-style: normal;
+     font-family: "Times New Roman";
+     font-size: 21px;
+   }
+
+   tr{
+     color:#112031;
+     font-family: "Times New Roman";
+     font-size: 20px;
+   }
+
+   ul{
+     text-align:center;
+
+   }
+
+   video{
+     border-style: groove;
+     border-width: 8px;
+     border-color: #787A91;
+   }
+
+
+   .neo{
+     border-width: 4px;
+     border-radius: 9px;
+     border-style: outset;
+     border-color: #787A91;
+
+
+   }
+
+   .a{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .b{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .c{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .d{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .e{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .f{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .g{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .h{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .i{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .j{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .k{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .l{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .m{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .n{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .o{
+     border-width: 4px;
+     border-radius: 100px;
+     border-style: outset;
+     border-color: #A19882;
+   }
+
+   .sticker{
+     border-width: 4px;
+     border-style:outset;
+     border-color: #A19882;
+   }
+
+   .regular{
+     border-width: 4px;
+     border-style:outset;
+     border-color: #A19882;
+   }
+
+   .neozone{
+     border-width: 4px;
+     border-style:outset;
+     border-color: #A19882;
+   }
+
+   .neocity{
+     border-width: 4px;
+     border-style:outset;
+     border-color: #A19882;
+   }
+
+   .cherry{
+     border-width: 4px;
+     border-style:outset;
+     border-color: #A19882;
+   }
+
+   .limitless{
+     border-width: 4px;
+     border-style:outset;
+     border-color: #A19882;
+   }
+
+   .order{
+     font-size: 19px;
+     text-align:center;
+
+   }
+
+   .profile{
+     font-size: 19px;
+     text-align:center;
+   }
